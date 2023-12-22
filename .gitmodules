@@ -3,4 +3,4 @@
 	url = https://github.com/alex-shpak/hugo-book
 [submodule "content/docs"]
 	path = content/docs
-	url = git@github.com:pan52yu/Laws.git
+	url = https://github.com/pan52yu/Laws.git
