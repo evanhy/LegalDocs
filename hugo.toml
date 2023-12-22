@@ -1,0 +1,17 @@
+baseURL = "/"
+title = "中国法律快查手册" # 网站名称
+languageCode = 'zh-cn' # 语言
+defaultContentLanguage = 'zh' # 默认语言
+
+theme = ["hugo-book"] # 主题
+# enableGitInfo = true # 是否显示最后更新时间
+
+[params]
+  BookTheme = 'auto' # 主题风格
+
+  BookToC = true # 是否显示目录
+  BookSection = 'docs' # 文档目录
+
+  BookSearch = true # 是否显示搜索框
+  BookComments = false # 是否显示评论
+  BookFlatSection = true # 是否显示平铺目录
